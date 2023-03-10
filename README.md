@@ -7,6 +7,6 @@ Implementation of Scheduling Algorithms as taught in the Operating Systems Cours
 - Shortest-Remaining Time First (SRTF) Scheduling with Context Switching
 - AGAT Scheduling
 
-##Screenshots
+## Screenshots
 ![1](ss/1.png)
 ![2](ss/2.png)
